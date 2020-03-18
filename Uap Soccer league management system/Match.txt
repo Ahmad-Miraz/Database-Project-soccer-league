@@ -1,0 +1,9 @@
+--inserting data into table match
+ (301,04,'1st June','Won'),
+ (302,03,'3rd June','Won'),
+ (303,01,'5th June','Lose'),
+ (304,02,'8th June','Lose'),
+ (305,05,'15th Jun','Won'),
+ (306,06,'18th June','Lose'),
+ (307,07,'25th Jun','Won'),
+ (308,07,'25th Jun','Won');

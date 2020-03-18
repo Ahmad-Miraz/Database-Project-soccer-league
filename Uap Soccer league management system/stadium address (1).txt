@@ -1,0 +1,6 @@
+(1010,'Dhaka','Dhaka','Mirpur','OceanRoad'),
+(1011,'Dhaka','Dhaka','Farmgate','greenroad'),
+(1012,'Dhaka','Dhaka','Purbachal','Yellowroad'),
+(1013,'Dhaka','Dhaka','Mirpur','blueroad'),
+(1014,'Dhaka','Dhaka','Dhanmondi','whiteroad');
+ 

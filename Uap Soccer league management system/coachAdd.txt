@@ -1,0 +1,9 @@
+--Coach Address
+insert into address values(1015,'Dhaka','Savar','Savar','BazarRoad'),
+(1016,'Chittagong','Noakhali','Maijdee','GaneshMandir'),
+(1017,'Khulna','Bagherhat','Khanjhan','MangalBazar'),
+(1018,'Rangpur','rangpur','uttam','sumoroad'),
+(1019,'Dhaka','Dhaka','Mirpur','Shankhamul'),
+(1020,'sylhet','srimongal','sunamgonj','Sonapur'),
+(1021,'Kamrangichor','purba','Rasulpur','7no.goli'),
+(1022,'Noakhali','laxmipur','Ramgonj','kanchanpur');

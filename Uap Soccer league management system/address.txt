@@ -1,0 +1,9 @@
+--Team address
+ (1019,'Dhaka','Dhaka','Mirpur','Kajipara'),
+ (1020,'Dhaka','Dhaka','farmgate','Greenroad'),
+ (1021,'Dhaka','Dhaka','Purbachal','kajibari'),
+ (1022,'Dhaka','Dhaka','Dhanmondi','lake'),
+ (1023,'Dhaka','Dhaka','Gulistan','CampusGate'),
+ (1021,'Dhaka','Dhaka','Purbachal','kajibari'),
+ (1022,'Dhaka','Dhaka','Dhanmondi','lake'),
+ (1023,'Dhaka','Dhaka','Gulistan','CampusGate');
